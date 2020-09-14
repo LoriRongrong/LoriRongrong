@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I am [Lori!](https://lorirongrong.github.io/Me/) 👋
 
-<!--
-**LoriRongrong/LoriRongrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@UCSD, Cognitive Science & Statistics & Computer Science
+Beliver of Social Science + Engineering
 
-Here are some ideas to get you started:
+- 🌱 learning React.js --> want to have more freedom to make it good-looking and human-centered when building applications 
+- 🤔 I’m looking for ideas on how to better combine CompSci & CogSci in research! 
+- 💬 Ask me about anything [here](https://github.com/LoriRongrong/LoriRongrong/issues)
+- 📫 How to reach me: rol044@ucsd.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoriRongrong&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=30,5A585A,090947&title_color=20A4F3&text_color=20A4F3&icon_color=BC6F03" alt="Lori's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriRongrong&layout=compact&langs_count=12&&hide=jupyter notebook,html,css,scss&theme=nightowl" alt="Lori's Most Used Languages" />
+</span>
+
+ 
