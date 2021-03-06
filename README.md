@@ -4,7 +4,6 @@
 Beliver of Social Science + Engineering
 
 - 🌱 learning React.js --> want to have more freedom to make it good-looking and human-centered when building applications 
-- 🤔 I’m looking for ideas on how to better combine CompSci & CogSci in research! 
 - 💬 Ask me about anything [here](https://github.com/LoriRongrong/LoriRongrong/issues)
 - 📫 How to reach me: rol044@ucsd.edu
 
